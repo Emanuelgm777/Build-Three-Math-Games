@@ -1,7 +1,7 @@
 Build Three Math Games
 Descripción
 
-Este proyecto consiste en la creación de tres juegos matemáticos interactivos diseñados para mejorar las habilidades de cálculo mental. Los juegos están implementados en JavaScript con una interfaz intuitiva y están pensados para proporcionar una experiencia divertida mientras se practican operaciones matemáticas básicas. Los juegos incluyen:
+Este proyecto consiste en la creación de tres juegos matemáticos interactivos diseñados para mejorar las habilidades de cálculo mental de una manera divertida y desafiante. Los juegos están implementados en JavaScript y están pensados para ayudar a los jugadores a practicar operaciones matemáticas básicas, como sumas, restas y multiplicaciones. Los tres juegos incluidos son:
 
 Juego de Sumas: Resuelve sumas simples en un tiempo limitado.
 
@@ -11,21 +11,21 @@ Juego de Multiplicaciones: Practica multiplicaciones en un entorno dinámico.
 
 Características
 
-Interactividad: Permite al usuario interactuar con la interfaz y recibir retroalimentación instantánea sobre sus respuestas.
+Interactividad: Los juegos permiten a los jugadores interactuar de manera directa con la interfaz, con retroalimentación instantánea sobre sus respuestas.
 
-Temporizador: Cada juego incluye un temporizador para añadir un reto adicional.
+Temporizador: Cada juego incluye un temporizador, lo que añade un nivel de dificultad adicional y desafía a los jugadores a mejorar su velocidad de cálculo.
 
-Puntajes: Los puntajes se registran y se actualizan después de cada ronda, mostrando el progreso del jugador.
+Puntajes: Los puntajes se guardan al finalizar cada ronda, lo que permite a los jugadores ver su rendimiento y competir contra ellos mismos para mejorar.
 
-Dificultad Escalonada: Los juegos aumentan de dificultad conforme el jugador mejora.
+Dificultad escalonada: A medida que el jugador avanza, los problemas matemáticos se vuelven progresivamente más difíciles, brindando un reto continuo.
 
 Tecnologías utilizadas
 
-HTML: Para la estructura de la página web y los formularios interactivos.
+HTML: Para la estructura de la página web y los formularios interactivos de los juegos.
 
-CSS: Para el diseño y la estilización de la interfaz.
+CSS: Para la estilización y diseño visual de la interfaz de usuario.
 
-JavaScript: Para la lógica y la interactividad de los juegos.
+JavaScript: Para la lógica y la interactividad de los juegos, incluida la validación de respuestas, el manejo de puntajes y el temporizador.
 
 Cómo usar el proyecto
 
@@ -35,17 +35,19 @@ git clone https://github.com/emanuelgm1998/build-three-math-games.git
 
 
 Abrir el archivo HTML en tu navegador
-Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador.
+Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador web.
 
 Jugar
 
-Una vez abierto, selecciona el juego que deseas jugar desde la interfaz.
+Selecciona el juego que deseas jugar desde la interfaz de usuario.
 
-Responde las preguntas de la manera más rápida posible para obtener el puntaje más alto.
+Responde las preguntas correctamente y rápidamente para obtener el mejor puntaje posible.
+
+Mejora tus habilidades matemáticas mientras te diviertes.
 
 Instalación
 
-Este proyecto no requiere instalación. Solo necesitas un navegador para ejecutar el proyecto. Si deseas modificar el código, abre el archivo index.html en tu editor de texto preferido.
+No es necesaria ninguna instalación adicional. Solo necesitas un navegador para ejecutar el proyecto. Si deseas modificar el código, simplemente abre el archivo index.html en tu editor de texto preferido y comienza a trabajar en el proyecto.
 
 Contribuciones
 
