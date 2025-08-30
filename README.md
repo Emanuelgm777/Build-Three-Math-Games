@@ -1,9 +1,7 @@
 Build Three Math Games
 Descripción
 
-Este proyecto consiste en la creación de tres juegos matemáticos interactivos diseñados para mejorar las habilidades de cálculo mental. Los juegos están diseñados en JavaScript y tienen una interfaz fácil de usar, con el objetivo de proporcionar una experiencia divertida mientras se practican operaciones matemáticas básicas.
-
-Los juegos incluyen:
+Este proyecto consiste en la creación de tres juegos matemáticos interactivos diseñados para mejorar las habilidades de cálculo mental. Los juegos están implementados en JavaScript con una interfaz intuitiva y están pensados para proporcionar una experiencia divertida mientras se practican operaciones matemáticas básicas. Los juegos incluyen:
 
 Juego de Sumas: Resuelve sumas simples en un tiempo limitado.
 
@@ -13,13 +11,13 @@ Juego de Multiplicaciones: Practica multiplicaciones en un entorno dinámico.
 
 Características
 
-Interactividad: Los juegos permiten al usuario interactuar con la interfaz y obtener retroalimentación instantánea sobre sus respuestas.
+Interactividad: Permite al usuario interactuar con la interfaz y recibir retroalimentación instantánea sobre sus respuestas.
 
-Temporizador: Cada juego tiene un temporizador para añadir un elemento de desafío.
+Temporizador: Cada juego incluye un temporizador para añadir un reto adicional.
 
-Puntajes: Los puntajes se guardan y se actualizan después de cada ronda, permitiendo a los jugadores ver su progreso.
+Puntajes: Los puntajes se registran y se actualizan después de cada ronda, mostrando el progreso del jugador.
 
-Dificultad escalonada: Los juegos se vuelven progresivamente más difíciles conforme el jugador mejora.
+Dificultad Escalonada: Los juegos aumentan de dificultad conforme el jugador mejora.
 
 Tecnologías utilizadas
 
@@ -33,30 +31,21 @@ Cómo usar el proyecto
 
 Clonar el repositorio
 
-git clone https://github.com/emanuelgm1998/build-three-math-games.git
+git clone https://github.com/emanuelgm1998/build-three-math-games.git  
 
 
 Abrir el archivo HTML en tu navegador
-
 Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador.
 
 Jugar
 
-Una vez abierto, selecciona el juego que deseas jugar desde la interfaz de usuario.
+Una vez abierto, selecciona el juego que deseas jugar desde la interfaz.
 
 Responde las preguntas de la manera más rápida posible para obtener el puntaje más alto.
 
-Estructura del Proyecto
-build-three-math-games/
-│
-├── index.html         # Página principal con los juegos
-├── style.css          # Estilos de la interfaz
-├── script.js          # Lógica de los juegos
-└── README.md          # Este archivo
-
 Instalación
 
-No se requiere instalación. Solo necesitas un navegador para ejecutar el proyecto. Si deseas modificar el código, simplemente abre el archivo index.html en tu editor de texto preferido.
+Este proyecto no requiere instalación. Solo necesitas un navegador para ejecutar el proyecto. Si deseas modificar el código, abre el archivo index.html en tu editor de texto preferido.
 
 Contribuciones
 
