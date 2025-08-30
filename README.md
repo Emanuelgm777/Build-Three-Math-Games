@@ -27,11 +27,6 @@ CSS: Para la estilización y diseño visual de la interfaz de usuario.
 
 JavaScript: Para la lógica y la interactividad de los juegos, incluida la validación de respuestas, el manejo de puntajes y el temporizador.
 
-Cómo usar el proyecto
-
-Clonar el repositorio
-
-git clone https://github.com/emanuelgm1998/build-three-math-games.git  
 
 
 Abrir el archivo HTML en tu navegador
